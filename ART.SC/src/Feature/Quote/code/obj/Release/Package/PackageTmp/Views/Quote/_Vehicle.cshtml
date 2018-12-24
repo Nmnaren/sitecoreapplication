@@ -1,0 +1,202 @@
+﻿@using System.Linq
+@using Sitecore.Mvc
+@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using ART.SC.Feature.Quote
+@model ART.SC.Feature.Quote.Models.QuickQuote
+<div class="medium-centered">
+    <div class="row column text-center">
+        <h5 class="page-subheader with-subheader">@Html.Sitecore().Field(Templates.Headline.Fields.Title, Model.VehicleDetails.Item)</h5>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.VehicleMakeLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.DropDownListFor(x => x.VehicleDetails.VehicleMake, new SelectList(Model.VehicleDetails.VehicleMakeList), "Select", new
+               {
+                   @class = "form-control",
+                   id = "vehicleMake"
+               })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.VehicleMake, "", new
+               {
+                   @class = "form-error is-visible"
+               })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.ColorLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @*@Html.DropDownListFor(x => x.Color, new SelectList(Model.Color), "", new
+                {
+                    @class = "form-control",
+                    id = "vehicleColor"
+                })*@
+                    @Html.DropDownListFor(x => x.VehicleDetails.Color, new SelectList(Model.VehicleDetails.ColorList), "Select", new
+               {
+                   @class = "form-control",
+                   id = "vehicleColor"
+               })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.Color, "", new
+               {
+                   @class = "form-error is-visible"
+               })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.RegistrationNumberLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.VehicleDetails.RegistrationNumber, new
+                  {
+                      @class = "form-control",
+                      id = "RegistrationNum",
+                      maxlength = "20"
+                  })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.RegistrationNumber, "", new
+          {
+              @class = "form-error is-visible"
+          })
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.VehicleModelLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @*@Html.DropDownListFor(x => x.VehicleModel, new SelectList(Model.VehicleModel), "", new
+               {
+                   @class = "form-control",
+                   id = "vehicleModel"
+               })*@
+                    @Html.DropDownListFor(x => x.VehicleDetails.VehicleModel, new SelectList(Model.VehicleDetails.VehicleModelList), "Select", new
+               {
+                   @class = "form-control",
+                   id = "vehicleModel"
+               })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.VehicleModel, "", new
+               {
+                   @class = "form-error is-visible"
+               })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.VehicleUsageLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.DropDownListFor(x => x.VehicleDetails.VehicleUsage, new SelectList(Model.VehicleDetails.VehicleUsageList), "Select", new
+                {
+                    @class = "form-control",
+                    id = "vehicleUsage"
+                })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.VehicleUsage, "", new
+                 {
+                     @class = "form-error is-visible"
+                 })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.VehicleTypeLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @*@Html.DropDownListFor(x => x.VehicleType, new SelectList(Model.VehicleType), "", new
+               {
+                   @class = "form-control",
+                   id = "vehicleType"
+               })*@
+                    @Html.DropDownListFor(x => x.VehicleDetails.VehicleType, new SelectList(Model.VehicleDetails.VehicleTypeList), "Select", new
+               {
+                   @class = "form-control",
+                   id = "vehicleType"
+               })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.VehicleType, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.YearofManufactureLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.VehicleDetails.YearOfManufacture, new
+                {
+                    @class = "form-control",
+                    id = "ManufacYear",
+                    data_date_format = "yyyy-mm-dd"
+                })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.YearOfManufacture, "", new
+               {
+                   @class = "form-error is-visible"
+               })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.OdoMeterReadingLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.VehicleDetails.ODOMeterReading, new
+                {
+                    @class = "form-control",
+                    id = "ODOMeterReading"
+                })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.ODOMeterReading, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Vehicle.Fields.TransmissionTypeLabel, Model.VehicleDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @*@Html.DropDownListFor(x => x.TransmissionType, new SelectList(Model.TransmissionType), "", new
+                 {
+                     @class = "form-control",
+                     id = "transmissionType"
+                 })*@
+                    @Html.DropDownListFor(x => x.VehicleDetails.TransmissionType, new SelectList(Model.VehicleDetails.TransmissionTypeList), "Select", new
+               {
+                   @class = "form-control",
+                   id = "transmissionType"
+               })
+                    @Html.ValidationMessageFor(x => x.VehicleDetails.TransmissionType, "", new
+                 {
+                     @class = "form-error is-visible"
+                 })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

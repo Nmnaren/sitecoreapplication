@@ -1,0 +1,94 @@
+﻿@using Sitecore.Mvc
+@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using ART.SC.Feature.Quote
+@model ART.SC.Feature.Quote.Models.QuickQuote
+<div class="medium-centered">
+    <div class="row column text-center">
+        <h5 class="page-subheader with-subheader">@Html.Sitecore().Field(Templates.Headline.Fields.Title, Model.LicenseDetails.Item)</h5>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="medium-6 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.License.Fields.LicenseNumberLabel, Model.LicenseDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.LicenseDetails.LicenseNumber, new
+               {
+                   @class = "form-control",
+                   id = "licenseNum",
+                   maxlength = "10"
+               })
+                    @Html.ValidationMessageFor(x => x.LicenseDetails.LicenseNumber, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                    
+                </div>
+            </div>
+        </div>
+        <div class="medium-6 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.License.Fields.EffectiveDateLabel, Model.LicenseDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.LicenseDetails.EffectiveDate, new
+                {
+                    @class = "form-control",
+                    id = "EffectiveDate",
+                    data_date_format = "yyyy-mm-dd"
+                })
+                  @Html.ValidationMessageFor(x => x.LicenseDetails.EffectiveDate, "", new
+             {
+                 @class = "form-error is-visible"
+             })
+                
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-6 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.License.Fields.PlaceofIssueLabel, Model.LicenseDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.LicenseDetails.PlaceOfIssue, new
+                 {
+                     @class = "form-control",
+                     id = "placeOfIssue",
+                     maxlength = "20"
+                 })
+                    @Html.ValidationMessageFor(x => x.LicenseDetails.PlaceOfIssue, "", new
+               {
+                   @class = "form-error is-visible"
+               })
+                    
+                </div>
+            </div>
+        </div>
+        <div class="medium-6 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.License.Fields.ExpiryDateLabel, Model.LicenseDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.LicenseDetails.ExpiryDate, new
+               {
+                   @class = "form-control",
+                   id = "LicenseExpiryDate",
+                   data_date_format = "yyyy-mm-dd"
+               })
+                    @Html.ValidationMessageFor(x => x.LicenseDetails.ExpiryDate, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

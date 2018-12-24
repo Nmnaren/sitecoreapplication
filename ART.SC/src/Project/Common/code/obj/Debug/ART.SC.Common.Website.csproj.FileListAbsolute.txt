@@ -1,0 +1,64 @@
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\csc.exe
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\csc.exe.config
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\csc.rsp
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\csi.exe
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\csi.rsp
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\System.AppContext.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\System.Collections.Immutable.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\System.IO.FileSystem.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\vbc.exe
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\vbc.exe.config
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\vbc.rsp
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\VBCSCompiler.exe
+D:\ART\ART.SC\src\Project\Common\code\bin\roslyn\VBCSCompiler.exe.config
+D:\ART\ART.SC\src\Project\Common\code\bin\ART.SC.Common.Website.dll.config
+D:\ART\ART.SC\src\Project\Common\code\bin\ART.SC.Common.Website.dll
+D:\ART\ART.SC\src\Project\Common\code\bin\ART.SC.Common.Website.pdb
+D:\ART\ART.SC\src\Project\Common\code\obj\Debug\ART.SC.Common.Website.dll
+D:\ART\ART.SC\src\Project\Common\code\obj\Debug\ART.SC.Common.Website.pdb
+D:\ART\ART.SC\src\Project\Common\code\obj\Debug\ART.SC.Common.Website.csprojResolveAssemblyReference.cache
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\csc.exe
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\csc.exe.config
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\csc.rsp
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\csi.exe
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\csi.rsp
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\System.AppContext.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\vbc.exe
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\vbc.exe.config
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\vbc.rsp
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\VBCSCompiler.exe
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\ART.SC.Common.Website.dll.config
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\ART.SC.Common.Website.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\bin\ART.SC.Common.Website.pdb
+C:\Sitecore Items\ART.SC\src\Project\Common\code\obj\Debug\ART.SC.Common.Website.csprojResolveAssemblyReference.cache
+C:\Sitecore Items\ART.SC\src\Project\Common\code\obj\Debug\ART.SC.Common.Website.dll
+C:\Sitecore Items\ART.SC\src\Project\Common\code\obj\Debug\ART.SC.Common.Website.pdb

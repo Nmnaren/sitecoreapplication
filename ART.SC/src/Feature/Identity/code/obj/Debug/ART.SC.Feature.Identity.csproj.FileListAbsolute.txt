@@ -1,0 +1,135 @@
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\csc.exe
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\csc.exe.config
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\csc.rsp
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\csi.exe
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\csi.rsp
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\System.AppContext.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\System.Collections.Immutable.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\System.IO.FileSystem.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\vbc.exe
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\vbc.exe.config
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\vbc.rsp
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\VBCSCompiler.exe
+D:\ART\ART.SC\src\Feature\Identity\code\bin\roslyn\VBCSCompiler.exe.config
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Feature.Identity.dll.config
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Feature.Identity.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Feature.Identity.pdb
+D:\ART\ART.SC\src\Feature\Identity\code\obj\Debug\ART.SC.Feature.Identity.dll
+D:\ART\ART.SC\src\Feature\Identity\code\obj\Debug\ART.SC.Feature.Identity.pdb
+D:\ART\ART.SC\src\Feature\Identity\code\obj\Debug\ART.SC.Feature.Identity.csprojResolveAssemblyReference.cache
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.SitecoreExtensions.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.DependencyInjection.dll
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.SitecoreExtensions.pdb
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.SitecoreExtensions.dll.config
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+D:\ART\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\csc.exe
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\csc.exe.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\csc.rsp
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\csi.exe
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\csi.rsp
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\System.AppContext.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\vbc.exe
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\vbc.exe.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\vbc.rsp
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\VBCSCompiler.exe
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Feature.Identity.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Feature.Identity.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Feature.Identity.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.SitecoreExtensions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.DependencyInjection.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Marketing.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.Model.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Marketing.Core.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Marketing.Taxonomy.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Framework.Conditions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.XConnect.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.XConnect.Collection.Model.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.Core.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Marketing.xMgmt.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Xdb.Reporting.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.DataAccess.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.XConnect.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Xdb.Configuration.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Marketing.Operations.Xdb.ReferenceData.Model.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.XConnect.Client.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.XConnect.Search.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.XConnect.Diagnostics.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Logging.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.Processing.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Xdb.ReferenceData.Core.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Analytics.Aggregation.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Xdb.Common.Web.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Xdb.Processing.Queue.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.XConnect.Client.Configuration.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Framework.Configuration.Extensions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Primitives.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Framework.Configuration.Abstractions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Xml.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Ini.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.SitecoreExtensions.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.SitecoreExtensions.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Framework.Conditions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Logging.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Framework.Configuration.Extensions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Primitives.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Sitecore.Framework.Configuration.Abstractions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Xml.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.Ini.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\obj\Debug\ART.SC.Feature.Identity.csprojResolveAssemblyReference.cache
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\obj\Debug\ART.SC.Feature.Identity.dll
+C:\Sitecore Items\ART.SC\src\Feature\Identity\code\obj\Debug\ART.SC.Feature.Identity.pdb

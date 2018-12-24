@@ -1,0 +1,43 @@
+﻿@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using ART.SC.Feature.Navigation
+@using Sitecore.Mvc
+@model ART.SC.Feature.Navigation.Models.NavigationItems
+<div class="navigationLayout">
+    <ul class="dropdown menu" data-dropdown-menu="er0vks-dropdown-menu" data-click-open="false" role="menubar" data-is-click="false">
+        @if (Model.NavItems != null)
+        {
+            foreach (var item in Model.NavItems)
+            {
+                var hasChildren = item.Children != null && item.Children.NavItems.Any() && item.ShowChildren;
+                var cssClass = "";
+                if (hasChildren)
+                {
+                    cssClass += " has-submenu is-dropdown-submenu-parent opens-right";
+                }
+
+                <li class="@cssClass" role="menuitem" aria-haspopup="true" data-is-click="false">
+                    @if (hasChildren)
+                    {
+                        <a href="@item.Url" class="dropdown-toggle text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            @Html.Sitecore().Field(ART.SC.Feature.Navigation.Templates.Navigable.Fields.NavigationTitle, item.Item)<span class="caret"></span>
+                        </a>
+                        <ul class="submenu menu vertical is-dropdown-submenu first-sub" data-submenu="" role="menu" style="">
+                            @foreach (var subitem in item.Children.NavItems)
+                            {
+                                <li class="@(subitem.IsActive ? "active" : "") is-submenu-item is-dropdown-submenu-item" role="menuitem">
+                                    <a href="@subitem.Url" target="@subitem.Target">@Html.Sitecore().Field(ART.SC.Feature.Navigation.Templates.Navigable.Fields.NavigationTitle, subitem.Item)</a>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <a class="text-uppercase" href="@item.Url" target="@item.Target">
+                            @Html.Sitecore().Field(ART.SC.Feature.Navigation.Templates.Navigable.Fields.NavigationTitle, item.Item)
+                        </a>
+                    }
+                </li>
+            }
+        }
+        </ul>
+        </div>

@@ -1,0 +1,70 @@
+﻿@using Sitecore.Mvc
+@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using ART.SC.Feature.Quote
+@model ART.SC.Feature.Quote.Models.QuickQuote
+<div class="medium-centered">
+    <div class="row column text-center">
+        <h5 class="page-subheader with-subheader">@Html.Sitecore().Field(Templates.Headline.Fields.Title, Model.PolicyDetails.Item) </h5>
+    </div>
+    <hr>
+    <div class="row form-group">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    <label class="control-label">@Html.Sitecore().Field(Templates.Policy.Fields.PolicyEffectiveDateLabel, Model.PolicyDetails.Item) </label>
+                </div>
+                <div class="medium-6 columns">
+                   @Html.TextBoxFor(x => x.PolicyDetails.PolicyEffectiveDate, new
+                   {
+                       @class = "form-control",
+                       id = "PolicyEffectiveDate",
+                       data_date_format = "yyyy-mm-dd"
+                   })
+                        @Html.ValidationMessageFor(x => x.PolicyDetails.PolicyEffectiveDate, "", new
+                   {
+                       @class = "form-error is-visible"
+                   }) 
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    <label class="control-label">@Html.Sitecore().Field(Templates.Policy.Fields.PolicyExpiryDateLabel, Model.PolicyDetails.Item) </label>
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.PolicyDetails.PolicyExpiryDate, new
+                   {
+                       @class = "form-control",
+                       id = "PolicyExpiryDate",
+                       @readonly = "true"
+                   })
+                    @Html.ValidationMessageFor(x => x.PolicyDetails.PolicyExpiryDate, "", new
+                  {
+                      @class = "form-error is-visible"
+                  })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    <label class="control-label">@Html.Sitecore().Field(Templates.Policy.Fields.PolicyCoverageLabel, Model.PolicyDetails.Item) </label>
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.PolicyDetails.CoverageAmount, new
+               {
+                   @class = "form-control",
+                   id = "policyCoverage",
+                   maxlength = "15"
+                  
+               })
+                    @Html.ValidationMessageFor(x => x.PolicyDetails.CoverageAmount, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

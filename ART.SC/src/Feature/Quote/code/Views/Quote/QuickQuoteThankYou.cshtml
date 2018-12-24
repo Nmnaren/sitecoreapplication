@@ -1,0 +1,63 @@
+﻿@model ART.SC.Foundation.Services.Models.QuickQuoteSuccessModel
+@using Sitecore.Globalization
+<div class="large-10 large-centered small-12 columns">
+    <div class="medium-centered">
+        <div class="row column text-center">
+            <br>
+            <h5 class="page-subheader with-subheader">@Html.Raw(Translate.Text("QuickQuoteSuccessHeading"))</h5>
+        </div>
+        <hr />
+        @if (Model.Result.QuoteStatus.Contains("Progress"))
+        {
+            <div class="row">
+                <label>@Html.Raw(Translate.Text("QuickQuoteStatusInprogressText"))</label>
+            </div>
+            <hr />
+        }
+        
+        <div class="row">
+            <div class="medium-4 columns supporticons">
+                <div class="row form-group">
+                    <div class="medium-6 columns">
+                        <label class="control-label">@Html.Raw(Translate.Text("QuoteNumber"))</label>
+                    </div>
+                    <div class="medium-6 columns">
+                        @Html.TextBoxFor(x=> x.Result.ReferenceNo, new
+                   {
+                       @class = "form-control",
+                       @readonly = "true"
+                   })
+                    </div>
+                </div>
+            </div>
+            <div class="medium-4 columns supporticons">
+                <div class="row form-group">
+                    <div class="medium-6 columns">
+                        <label class="control-label">@Html.Raw(Translate.Text("TotalCoverage"))</label>
+                    </div>
+                    <div class="medium-6 columns">
+                        @Html.TextBoxFor(x => x.Result.QuoteDetails.TotalCoverage, new
+                   {
+                       @class = "form-control",
+                       @readonly = "true"
+                   })
+                    </div>
+                </div>
+            </div>
+            <div class="medium-4 columns supporticons">
+                <div class="row form-group">
+                    <div class="medium-6 columns">
+                        <label class="control-label">@Html.Raw(Translate.Text("PremiumAmount"))</label>
+                    </div>
+                    <div class="medium-6 columns">
+                        @Html.TextBoxFor(x => x.Result.QuoteDetails.PremiumAmount, new
+                   {
+                       @class = "form-control",
+                       @readonly = "true"
+                   })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

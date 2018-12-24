@@ -1,0 +1,90 @@
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\csc.exe
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\csc.exe.config
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\csc.rsp
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\csi.exe
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\csi.rsp
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\System.AppContext.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\System.Collections.Immutable.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\System.IO.FileSystem.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\vbc.exe
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\vbc.exe.config
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\vbc.rsp
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\VBCSCompiler.exe
+D:\ART\ART.SC\src\Feature\Quote\code\bin\roslyn\VBCSCompiler.exe.config
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Feature.Quote.dll.config
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Feature.Quote.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Feature.Quote.pdb
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.DependencyInjection.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.SitecoreExtensions.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.SitecoreExtensions.pdb
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.SitecoreExtensions.dll.config
+D:\ART\ART.SC\src\Feature\Quote\code\obj\Release\ART.SC.Feature.Quote.csprojResolveAssemblyReference.cache
+D:\ART\ART.SC\src\Feature\Quote\code\obj\Release\ART.SC.Feature.Quote.dll
+D:\ART\ART.SC\src\Feature\Quote\code\obj\Release\ART.SC.Feature.Quote.pdb
+D:\ART\ART.SC\src\Feature\Quote\code\bin\Sitecore.Kernel.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\Sitecore.Mvc.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\System.Web.Mvc.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\System.Web.Razor.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.Services.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\Newtonsoft.Json.dll
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.Services.pdb
+D:\ART\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.Services.dll.config
+D:\ART\ART.SC\src\Feature\Quote\code\bin\Newtonsoft.Json.xml
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\csc.exe
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\csc.exe.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\csc.rsp
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\csi.exe
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\csi.rsp
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\System.AppContext.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\vbc.exe
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\vbc.exe.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\vbc.rsp
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\VBCSCompiler.exe
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Feature.Quote.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Feature.Quote.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Feature.Quote.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.DependencyInjection.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.Services.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.SitecoreExtensions.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.Services.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.Services.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.SitecoreExtensions.pdb
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\bin\ART.SC.Foundation.SitecoreExtensions.dll.config
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\obj\Release\ART.SC.Feature.Quote.csprojResolveAssemblyReference.cache
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\obj\Release\ART.SC.Feature.Quote.dll
+C:\Sitecore Items\ART.SC\src\Feature\Quote\code\obj\Release\ART.SC.Feature.Quote.pdb

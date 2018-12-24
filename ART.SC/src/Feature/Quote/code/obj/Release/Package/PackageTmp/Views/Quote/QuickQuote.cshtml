@@ -1,0 +1,40 @@
+﻿@using Sitecore.Mvc
+@using ART.SC.Feature.Quote.Models
+@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using ART.SC.Feature.Quote
+@model ART.SC.Feature.Quote.Models.QuickQuote
+
+@if (Model.HasError)
+{
+    if (!string.IsNullOrWhiteSpace(Model.GenericErrorMessege))
+    {
+        <div class="row">
+            @Html.Raw(Model.GenericErrorMessege)
+        </div>
+    }
+}
+@using (Html.BeginForm())
+{
+    <div class="large-10 large-centered small-12 columns">
+        <div>
+            @Html.Partial("_Policy")
+        </div>
+        <hr />
+        <div>
+            @Html.Partial("_Vehicle")
+        </div>
+        <hr />
+        <div>
+            @Html.Partial("_Insured")
+        </div>
+        <hr />
+        <div>
+            @Html.Partial("_License")
+        </div>
+        <hr />
+        <div class="row actionbutton">
+            <button type="submit" class="button secondary" id="btnSubmit">@Html.Sitecore.Field(Templates.QuoteDetails.Fields.SubmitButtonLabel, Model.Item)</button>
+            <button type="submit" class="button secondary disabled" id="btnApproval" disabled>@Html.Sitecore.Field(Templates.QuoteDetails.Fields.SendForApprovalButtonLabel, Model.Item)</button>
+        </div>  
+   </div>     
+}

@@ -1,0 +1,29 @@
+@include foundation-xy-grid-classes;
+.log-in-form {
+  border: 1px solid $medium-gray;
+  padding: $form-spacing;
+  border-radius: $global-radius;
+}
+.actionbutton {
+ text-align:right;
+}
+.navigationLayout{margin-top: 30px;}
+.top-bar, .top-bar ul{background-color: #1f4681!important;}
+
+.menu a{color:#fff;font-size: 18px;}
+footer{border:0!important; margin-bottom: 0!important;}
+
+body,button, input, optgroup, select, textarea{font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+body, h1, h2, h3, h4, h5, h6{font-family: 'Open Sans Condensed', sans-serif;}
+
+label{    font-size: 18px;}
+.page-subheader {
+    background: #2d91c7;
+    color: #fff;
+    text-align: left;
+    padding: 5px 0 5px 10px;
+    margin-bottom: 25px;
+}

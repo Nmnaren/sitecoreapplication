@@ -1,0 +1,170 @@
+﻿@using Sitecore.Mvc
+@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using ART.SC.Feature.Quote
+@model ART.SC.Feature.Quote.Models.QuickQuote
+<div class="medium-centered">
+    <div class="row column text-center">
+        <h5 class="page-subheader with-subheader">@Html.Sitecore().Field(Templates.Headline.Fields.Title, Model.InsuredDetails.Item)</h5>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.FirstNameLabel, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.FirstName, new
+                 {
+                     @class = "form-control",
+                     id = "firstName",
+                     maxlength = "30"
+                 })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.FirstName, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.DateofBirthLabel, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.DateOfBirth, new
+                {
+                    @class = "form-control",
+                    id = "DOB",
+                    data_date_format = "yyyy-mm-dd"
+                })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.DateOfBirth, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.AddressLine1Label, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.AddressLine1, new
+                                   {
+                                       @class = "form-control",
+                                       id = "addressLine1",
+                                       maxlength = "20"
+                                   })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.AddressLine1, "", new
+                 {
+                     @class = "form-error is-visible"
+                 })
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.MiddleNameLabel, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.SecondName, new
+                {
+                    @class = "form-control",
+                    id = "secondName",
+                    maxlength = "30"
+                })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.CityLabel, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.DropDownListFor(x => x.InsuredDetails.City, new SelectList(Model.InsuredDetails.CityList), "Select", new
+               {
+                   @class = "form-control",
+                   id = "city"
+               })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.City, "", new
+             {
+                 @class = "form-error is-visible"
+             })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.AddressLine2Label, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.AddressLine2, new
+                 {
+                     @class = "form-control",
+                     id = "addressLine2",
+                     maxlength = "20"
+                 })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.AddressLine2, "", new
+                {
+                    @class = "form-error is-visible"
+                })
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.LastNameLabel, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.LastName, new
+                {
+                    @class = "form-control",
+                    id = "lastName",
+                    maxlength = "30"
+                })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.LastName, "", new
+               {
+                   @class = "form-error is-visible"
+               })
+                </div>
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row">
+
+            </div>
+        </div>
+        <div class="medium-4 columns supporticons">
+            <div class="row form-group">
+                <div class="medium-6 columns">
+                    @Html.Sitecore().Field(Templates.Insured.Fields.ZipCodeLabel, Model.InsuredDetails.Item)
+                </div>
+                <div class="medium-6 columns">
+                    @Html.TextBoxFor(x => x.InsuredDetails.ZipCode, new
+                 {
+                     @class = "form-control",
+                     id = "zipCode",
+                     maxlength = "15"
+                 })
+                    @Html.ValidationMessageFor(x => x.InsuredDetails.ZipCode, "", new
+              {
+                  @class = "form-error is-visible"
+              })
+      
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,137 @@
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.exe
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.exe.config
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.rsp
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\csi.exe
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\csi.rsp
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\System.AppContext.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.exe
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.exe.config
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.rsp
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\VBCSCompiler.exe
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.dll.config
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.pdb
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.csprojResolveAssemblyReference.cache
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.pdb
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\Newtonsoft.Json.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\Newtonsoft.Json.xml
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.Mvc.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Razor.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.Razor.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Deployment.dll
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.Mvc.xml
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.xml
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Razor.xml
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.Razor.xml
+C:\projects\ART.SC\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Deployment.xml
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.exe
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.exe.config
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.rsp
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\csi.exe
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\csi.rsp
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\System.AppContext.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Collections.Immutable.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\System.IO.FileSystem.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.exe
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.exe.config
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.rsp
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\VBCSCompiler.exe
+D:\ART\ART.SC\src\Foundation\Services\code\bin\roslyn\VBCSCompiler.exe.config
+D:\ART\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.dll.config
+D:\ART\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.pdb
+D:\ART\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\System.Net.Http.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\System.Web.Mvc.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Razor.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\System.Web.Razor.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Deployment.dll
+D:\ART\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+D:\ART\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+D:\ART\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.csprojResolveAssemblyReference.cache
+D:\ART\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.dll
+D:\ART\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.pdb
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.exe
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.exe.config
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\csc.rsp
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\csi.exe
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\csi.rsp
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\System.AppContext.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.exe
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.exe.config
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\vbc.rsp
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\VBCSCompiler.exe
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.dll.config
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.Services.pdb
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Net.Http.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.Mvc.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Razor.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.Razor.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Deployment.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.pdb
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\ART.SC.Foundation.DependencyInjection.dll.config
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.csprojResolveAssemblyReference.cache
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.dll
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\obj\Debug\ART.SC.Foundation.Services.pdb
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.Mvc.xml
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.xml
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Razor.xml
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.Razor.xml
+C:\Sitecore Items\ART.SC\src\Foundation\Services\code\bin\System.Web.WebPages.Deployment.xml

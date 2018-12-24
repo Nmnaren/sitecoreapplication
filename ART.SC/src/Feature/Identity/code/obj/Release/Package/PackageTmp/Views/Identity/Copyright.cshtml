@@ -1,0 +1,22 @@
+﻿@using ART.SC.Feature.Identity
+@using ART.SC.Feature.Identity.Repositories
+@using ART.SC.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Mvc
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    var identity = IdentityRepository.Get(Model.Item);
+    if (identity == null)
+    {
+        return;
+    }
+}
+<article class="grid-container">
+    <div class="grid-x">
+        <div class="large-12 columns text-center">
+            <p>@Html.Sitecore().Field(ART.SC.Feature.Identity.Templates.Identity.Fields.Copyright, identity)</p>
+        </div>
+
+
+    </div>
+</article>
+
